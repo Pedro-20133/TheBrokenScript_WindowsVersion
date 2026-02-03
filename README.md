@@ -1,3 +1,6 @@
+> [!TIP]
+> O programa não esta completo (no momento esta em desenvolvimento, isso significa que ainda não tem nem uma release), bugs e erros devem ser denunciados para correção futura
+
 # 👁️ The BrokenScript: Windows Version
 
 > **"O sistema não está apenas processando dados. Ele está observando você."**
