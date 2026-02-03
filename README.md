@@ -18,9 +18,9 @@
 ## 🖥️ Compatibilidade e Trava de Segurança
 Para evitar acidentes, o executável possui uma trava de hardware em C++ que detecta o ambiente. O BrokenScript **só funcionará** se detectar:
 
-* **Oracle VM VirtualBox**
-* **VMware Workstation / Player**
-* **QEMU / Hyper-V**
+* **[Oracle VM VirtualBox]()**
+* **[VMware Workstation]() / [Player]()**
+* **[QEMU]() / [Hyper-V]()**
 
 *Se executado em hardware real, o programa encerrará o processo imediatamente para proteger seu PC.*
 
