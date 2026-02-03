@@ -7,6 +7,11 @@
 ---
 
 ## ⚠️ AVISO DE SEGURANÇA CRÍTICO
+
+> [!CAUTION]
+> **RISCO DE PERDA DE DADOS:** Este software simula comportamentos de malware destrutivo.
+> **NÃO EXECUTE EM HARDWARE REAL.** O autor não se responsabiliza por danos.
+
 **ESTE SOFTWARE FOI PROJETADO PARA AGIR COMO UM MALWARE EXPERIMENTAL.**
 
 * **APENAS EM VM:** Este programa **NUNCA** deve ser executado em seu computador físico (Host). Ele foi desenvolvido para rodar exclusivamente em ambientes virtuais isolados.
