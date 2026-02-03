@@ -24,6 +24,8 @@ Para evitar acidentes, o executável possui uma trava de hardware em C++ que det
 
 *Se executado em hardware real, o programa encerrará o processo imediatamente para proteger seu PC.*
 
+[nosso site para baixar as VMs compativeis](https://github.com)
+
 ---
 
 ## 🌑 A Progressão da Paranoia
@@ -43,8 +45,12 @@ A experiência foi desenhada para ser lenta e perturbadora:
 
 ---
 
-### 📥 Como Instalar
-1.  Crie uma Máquina Virtual Windows dedicada.
-2.  Mova o `TheBrokenScript.exe` para dentro da VM.
-3.  Execute como **Administrador**.
-4.  Não feche o processo. A experiência começará silenciosamente.
+## ⬇️ Como Instalar
+1. Baixe a release mais recente (Dentro da VM)
+2. Execute o **TheBrokenScript_WinVersion.exe** como Admin
+3. Concorde com os termos e click para instalar
+4. Tudo pronto para sua experiencia
+
+### ✍️ Créditos
+* Créditos totais aos criadores originais de The Broken Script: **wedigodrip** & **redstonewizard**
+* Eles quem tiveram a ideia original, eu só adaptei para Windows
