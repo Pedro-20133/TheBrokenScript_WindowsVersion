@@ -1,2 +1,50 @@
-# TheBrokenScript_WindowsVersion
-The BrokenScript (Win): Experiência imersiva de paranoia inspirada no mod Broken Script. Simula a sensação de ser observado através de eventos progressivos: manipulação de arquivos, comportamento da webcam e anomalias no sistema. ⚠️ AVISO: Execute exclusivamente em Máquina Virtual (VM). Uso por sua conta e risco.
+# 👁️ The BrokenScript: Windows Version
+
+> **"O sistema não está apenas processando dados. Ele está observando você."**
+
+**The BrokenScript** é uma experiência de terror psicológico imersiva baseada em software, inspirada no conceito original do mod *Broken Script* para Minecraft. Ao contrário de um software comum, este programa evolui silenciosamente ao longo de **180 dias**, simulando um estado de paranoia digital e degradação sistêmica.
+
+---
+
+## ⚠️ AVISO DE SEGURANÇA CRÍTICO
+**ESTE SOFTWARE FOI PROJETADO PARA AGIR COMO UM MALWARE EXPERIMENTAL.**
+
+* **APENAS EM VM:** Este programa **NUNCA** deve ser executado em seu computador físico (Host). Ele foi desenvolvido para rodar exclusivamente em ambientes virtuais isolados.
+* **DANOS PERMANENTES:** O software irá modificar, ocultar e deletar arquivos dentro da VM. No final do ciclo, o sistema operacional da VM será inutilizado (Shutdown permanente).
+* **ISENÇÃO DE RESPONSABILIDADE:** Sob os termos da **Licença MIT**, o autor não se responsabiliza por quaisquer danos causados por uso negligente fora de uma Máquina Virtual. Você o executa por sua conta e risco.
+
+---
+
+## 🖥️ Compatibilidade e Trava de Segurança
+Para evitar acidentes, o executável possui uma trava de hardware em C++ que detecta o ambiente. O BrokenScript **só funcionará** se detectar:
+
+* **Oracle VM VirtualBox**
+* **VMware Workstation / Player**
+* **QEMU / Hyper-V**
+
+*Se executado em hardware real, o programa encerrará o processo imediatamente para proteger seu PC.*
+
+---
+
+## 🌑 A Progressão da Paranoia
+A experiência foi desenhada para ser lenta e perturbadora:
+
+1.  **Fase de Latência:** O programa se instala na inicialização. Pequenas alterações em arquivos começam a ocorrer.
+2.  **Fase de Vigilância:** O LED da webcam pisca aleatoriamente. Arquivos deletados retornam sozinhos.
+3.  **Fase de Interação:** Notificações do sistema exibem mensagens ambíguas. Janelas fecham sozinhas.
+4.  **O Evento Final (Dia 180):** O ciclo termina. O Windows é desligado e o registro de boot é comprometido.
+
+---
+
+## 🛠️ Detalhes Técnicos
+* **Linguagem:** C++ (Win32 API)
+* **Licença:** MIT
+* **Persistência:** O software cria uma entrada no Registro do Windows (`HKCU\Software\Microsoft\Windows\CurrentVersion\Run`) para garantir a continuidade da experiência.
+
+---
+
+### 📥 Como Instalar
+1.  Crie uma Máquina Virtual Windows dedicada.
+2.  Mova o `TheBrokenScript.exe` para dentro da VM.
+3.  Execute como **Administrador**.
+4.  Não feche o processo. A experiência começará silenciosamente.
