@@ -47,7 +47,6 @@ A experiência foi desenhada para ser lenta e perturbadora:
 ## 🛠️ Detalhes Técnicos
 * **Linguagem:** C++ (Win32 API)
 * **Licença:** MIT
-* **Persistência:** O software cria uma entrada no Registro do Windows (`HKCU\Software\Microsoft\Windows\CurrentVersion\Run`) para garantir a continuidade da experiência.
 
 ---
 
