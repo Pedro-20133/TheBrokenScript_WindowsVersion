@@ -59,3 +59,5 @@ A experiência foi desenhada para ser lenta e perturbadora:
 ### ✍️ Créditos
 * Créditos totais aos criadores originais de The Broken Script: **wedigodrip** & **redstonewizard**
 * Eles quem tiveram a ideia original, eu só adaptei para Windows
+
+* **[Icons8](https://icons8.com.br/)** Eles fizeram uma parte do design
