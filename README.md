@@ -51,10 +51,13 @@ A experiência foi desenhada para ser lenta e perturbadora:
 ---
 
 ## ⬇️ Como Instalar
-1. Baixe a release mais recente (Dentro da VM)
-2. Execute o **TheBrokenScript_WinVersion.exe** como Admin
-3. Concorde com os termos e click para instalar
-4. Tudo pronto para sua experiencia
+> [!TIP]
+> O programa destroi o Windows por pradrão, mas você pode alterar isso nas configurações!
+
+1. Baixe o Pakage mais recente
+2. Após descompactar o pakage, executar como ADM o **TBS_WinVersion_installer.exe**
+3. Siga os passos da instalação
+4. Pronto
 
 ### ✍️ Créditos
 * Créditos totais aos criadores originais de The Broken Script: **wedigodrip** & **redstonewizard**
