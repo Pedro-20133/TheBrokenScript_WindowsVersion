@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TBS_WinVersion_installer/TBS_WinVersion_installer.vcxproj" Id="774a0037-92c5-4933-b434-7190752603aa" />
+</Solution>
