@@ -57,7 +57,7 @@ A experiência foi desenhada para ser lenta e perturbadora:
 > [!TIP]
 > O programa destroi o Windows por pradrão, mas você pode alterar isso nas configurações!
 
-1. Baixe o Pakage mais recente
+1. Baixe a Release mais recente
 2. Após descompactar o pakage, executar como ADM o **TBS_WinVersion_installer.exe**
 3. Siga os passos da instalação
 4. Pronto
